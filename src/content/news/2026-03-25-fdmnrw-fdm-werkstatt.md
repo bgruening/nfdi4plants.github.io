@@ -1,6 +1,6 @@
 ---
 date: 2026-03-31
-title: DataPLANT at fdm.nrw Werkstatt
+title: DataPLANT at FDM-Werkstatt
 description: DataPLANT participated in the fdm.nrw community workshop, showcasing RDM tools and discussing best practices across consortia.
 ---
 
@@ -13,4 +13,4 @@ The workshop featured hands-on sessions with a range of RDM tools and services, 
 
 [Dominik Brilhaus](https://nfdi4plants.org/member/dominik-brilhaus/) (CEPLAS) presented the "DataPLANT Tools & Services – And how they support community RDM" 
 
-
+![Dominik presenting at FDM-Werkstatt](../../assets/images/news/2026-03-24_fdmw-brilhaus.png)
