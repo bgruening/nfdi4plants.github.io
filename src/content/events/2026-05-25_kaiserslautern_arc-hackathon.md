@@ -1,10 +1,10 @@
 ---
 title: 3rd Hands-On Symposium on ARC communication and interoperability
 category: Conference
-description: 'Exact date to be determined due to confusion about Pentecost and will be updated asap!'
+description: 'Save the date! Talks, Discussions, Coding and much more about the ARC ecosystem and beyond!'
 when:
-  start:  2026-05-25T12:00:00
-  end:    2026-06-26T15:00:00
+  start:  2026-06-15T12:00:00
+  end:    2026-06-17T15:00:00
 mode: OfflineEventAttendanceMode
 audience: ['Users', 'DataStewards', 'Developers']
 image: ~/assets/images/events/villa-denis.jpg
@@ -20,6 +20,13 @@ organizer:
   url: https://nfdi4plants.org/
 ---
 
-> The initial date (2026-05-25) unfortunately coincides with Pentecost, which is a public holiday in Germany. We are currently trying to find an alternative date and will update this page as soon as we have more information. 
+> The initial date (2026-05-25) unfortunately coincides with Pentecost, which is a public holiday in Germany. We have now rescheduled the event to June 15-17, 2026.
 
-The symposium will be held over a 3 day lunch-to-lunch period, most probably in the June period. The exact date will be determined in the next weeks and will be announced here as soon as possible.
+## Information
+
+**3rd Hands-On Symposium on ARC communication and interoperability**  
+*June 15th to 17th, 2026*
+
+The symposium is an on-site, in presence event held at the [Villa-Denis](https://rptu.de/ueber-die-rptu/stiften-und-foerdern/tagungszentrum-villa-denis). It will be held over three days. 
+
+The main goal is to integrate ARC-related work of different groups across consortia. Between discussions, coding and other hands-on work, there will be various talks from metadata experts surrounding the ARC ecosystem and beyond.
