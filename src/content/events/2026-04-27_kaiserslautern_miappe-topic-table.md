@@ -20,13 +20,13 @@ organizer:
 
 ## Information
 
-The Topic Table `FAIR Digital Objects for Plant Phenotyping` works on improving the interoperability, documentation, and reusability of plant phenotyping data. It is part of an intiative of the NFDI4Biodiversity consortium that brings together members of the biodiversity research community to address focused challenges in research data management and to develop practical, community-oriented outputs.
+The Topic Table `FAIR Digital Objects for Plant Phenotyping` works on improving the interoperability, documentation, and reusability of plant phenotyping data. It is part of an intiative of the NFDI4Biodiversity consortium and a collaboration with DataPLANT, bringing together members of the plant phenotyping research community to address focused challenges in research data management and to develop practical, community-oriented outputs.
 
 https://www.nfdi4biodiversity.org/de/topic-table-2-pflanzenphaenotypisierung/
 
 A central focus of the topic table is the alignment of the MIAPPE standard with the broader ISA and ARC ecosystem in order to support the creation of well-structured, FAIR, and reusable datasets for plant phenotyping. By discussing long-standing points of difficulty alongside reference datasets,  participants will work towards mapping specifications and implementation guidelines.
 
-The first retreat of this Topic Table will take place at Villa Denis near Kaiserslautern, organized by the DataPLANT Team at the RPTU Kaiserslautern-Landau. The event will provide a dedicated setting for intensive exchange between data stewards and developers working at the interface of plant research and digital research infrastructures. Together, the participating partners aim to develop best practices that facilitate the adoption of harmonized data workflows across institutions and projects.
+The first retreat of this Topic Table will take place at Villa Denis near Kaiserslautern. The event will provide a dedicated setting for intensive exchange between data stewards and developers working at the interface of plant research and digital research infrastructures. Together, the participating partners aim to develop best practices that facilitate the adoption of harmonized data workflows across institutions and projects.
 
 As the first in-person meeting of the Topic Table, the retreat builds on previous virtual discussions and marks an important step in addressing key challenges, and coordinating the next stages of collaborative work. 
 
