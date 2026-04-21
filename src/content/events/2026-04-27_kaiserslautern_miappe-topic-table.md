@@ -20,7 +20,7 @@ organizer:
 
 ## Information
 
-The Topic Table `FAIR Digital Objects for Plant Phenotyping` works on improving the interoperability, documentation, and reusability of plant phenotyping data. It is part of an intiative of the NFDI4Biodiversity consortium and a collaboration with DataPLANT, bringing together members of the plant phenotyping research community to address focused challenges in research data management and to develop practical, community-oriented outputs.
+The Topic Table `FAIR Digital Objects for Plant Phenotyping` works on improving the interoperability, documentation, and reusability of plant phenotyping data. It is part of an intiative of NFDI4Biodiversity and DataPLANT, bringing together members of the plant phenotyping research community to address focused challenges in research data management and to develop practical, community-oriented outputs.
 
 https://www.nfdi4biodiversity.org/de/topic-table-2-pflanzenphaenotypisierung/
 
